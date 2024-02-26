@@ -168,3 +168,5 @@ En conclusión, dominar la lógica, ETL y modelado de datos en Power BI es esenc
 Link de mi reporte:https://www.novypro.com/project/análisis-de-negocio
 
 Link Power BI:https://app.powerbi.com/view?r=eyJrIjoiNDhlZDkyNjktMzY5OC00NzU2LWFlZGUtMzgzZWY1ZDFiZGJjIiwidCI6IjkxMTVmY2FmLWE5NGQtNDBiMS1hM2JhLWIwNjJjODA1NTVlMCIsImMiOjl9
+
+Link YouTube: https://youtu.be/A-yclzq0-9U
